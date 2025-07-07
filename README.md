@@ -1,5 +1,4 @@
 ```md
-<!-- Animated Banner (Optional: Replace with your custom animation link later) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Krish+Sanghvi;AI-Focused+Full+Stack+Dev;LangChain+%7C+Supabase+%7C+AWS+%7C+LLMs;Hackathon+Winner+%7C+HPC+Researcher;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
@@ -62,5 +61,4 @@
 
 ---
 
-<!-- You can add more animated sections using SVG loaders or GIF dividers if you'd like later. -->
 ```
