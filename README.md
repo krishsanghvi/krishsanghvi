@@ -7,10 +7,9 @@
 
 ### 🧠 Quick Facts
 
-- 🎓 **Computer Science (Honors)** @ *Ohio State University*
-- 💻 **AI & Full Stack Dev** | LangChain | Supabase | AWS | LLMs
+- 🎓 **Computer Science Graduate** @ *Ohio State University*
+- 💻 **AI & Full Stack Dev**
 - 🏆 **4x Hackathon Winner** *(TartanHacks, Code For Good, MakeOHI/O)*
-- 🎤 Speaker @ **PEARC 2025** – Securing LLMs in HPC Environments
 - 🌐 [krish-sanghvi.com](https://krish-sanghvi.com) | [LinkedIn](https://linkedin.com/in/krishsanghvi) | [GitHub](https://github.com/krishsanghvi)
 
 ---
@@ -40,23 +39,3 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| **[Donna - AI Email Secretary](https://github.com/krishsanghvi)** | Automates professional email workflows using Gemini API | LangChain, React, AI APIs |
-| **[Airline Booking System](https://github.com/krishsanghvi)** | Book/search flights with AWS + Spring Boot backend | React, AWS RDS, MySQL |
-| **[GraphRAG Chatbot](https://github.com/krishsanghvi)** | HPC chatbot with web-scraped LLM + graph data | LangChain, Supabase, GCP |
-| **[NotifI](https://github.com/krishsanghvi)** | AI facial recognition home security app | Python, Flask, CV |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishsanghvi&show_icons=true&theme=radical" alt="Krish's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsanghvi&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
----
