@@ -14,9 +14,6 @@
   - Best Use of AI @ **TartanHacks 2025**
   - Best Student Poster @ **PEARC 2025**
   - 2nd Place @ **MakeOHI/O**
-- 📜 Certifications: **Databricks Certified Data Engineer Associate**, **AWS Certified Cloud Practitioner**, **Hugging Face AI Agents Fundamentals**
-- 🌐 [krish-sanghvi.com](https://krish-sanghvi.com) | [LinkedIn](https://linkedin.com/in/krishsanghvi) | [GitHub](https://github.com/krishsanghvi)
-
 ---
 
 ### ⚙️ Tech Stack
